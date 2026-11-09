@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">答题看电视</string>
+    <string name="guard_label">答题看电视·守门</string>
+    <string name="media_label">答题看电视·播放检测</string>
+    <string name="a11y_desc">检测受管视频应用是否在播放，按答题获得的余额计时；余额用完时暂停播放并打开答题页。</string>
+</resources>
